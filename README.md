@@ -6,3 +6,4 @@ and a **MSc in Data Science** from **[Universitat Oberta de Catalunya](https://w
 Interested in machine learning applications for science and engineering,<br>
 with a focus on deep learning and graph neural networks.
 
+*OSS whenever possible. Always trying to follow the KISS principle.*
